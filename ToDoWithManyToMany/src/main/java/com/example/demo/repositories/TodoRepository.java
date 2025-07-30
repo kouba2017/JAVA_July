@@ -1,0 +1,25 @@
+package com.example.demo.repositories;
+
+
+import java.util.List;
+
+import org.springframework.data.repository.CrudRepository;
+import org.springframework.stereotype.Repository;
+
+import com.example.demo.models.Todo;
+
+
+
+@Repository
+public interface TodoRepository extends CrudRepository<Todo,Long> {
+
+	
+	// find all todos 
+	List<Todo> findAll();
+	
+	//get todo by title contains 
+	List<Todo> findByTitleContains(String query);
+	
+	
+}
+
