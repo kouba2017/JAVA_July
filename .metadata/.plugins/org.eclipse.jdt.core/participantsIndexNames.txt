@@ -3,3 +3,5 @@ C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\.metadata\.p
 \student-roster-prep\src\main\java
 C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1012057036.index
 \ToDoWithManyToMany\src\main\java
+C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2334962618.index
+\LoginRegistrationLecture\src\main\java

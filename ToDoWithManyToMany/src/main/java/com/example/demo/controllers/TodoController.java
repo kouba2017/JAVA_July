@@ -15,6 +15,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 import com.example.demo.models.Todo;
 import com.example.demo.services.TodoService;
+import com.example.demo.services.UserService;
 
 import jakarta.validation.Valid;
 
@@ -23,29 +24,33 @@ public class TodoController {
 
 	@Autowired
 	TodoService todoService;
-	
+	@Autowired 
+	UserService userService;
 	//get the main page (table of todos)
 	@GetMapping("/todos")
 	public String index(Model model) {
 		// i will get all the todos and pass them into the Model
 		model.addAttribute("todos",todoService.getAllTodos());
+		model.addAttribute("userList",userService.getAllUsers());
 		return "todos.jsp";
 	}
 
 	
 	//get create todo page 
 	@GetMapping("/todos/create")
-	public String createPage(@ModelAttribute("todo")Todo todo) {
+	public String createPage(@ModelAttribute("todo")Todo todo, Model model) {
+		model.addAttribute("userList",userService.getAllUsers());
 		return "createTodo.jsp";
 	}
 	
 	//submit data to create todo 
 	@PostMapping("/todos/create")
-	public String createTodo(@Valid @ModelAttribute("todo")Todo todo,BindingResult result) {
+	public String createTodo(@Valid @ModelAttribute("todo")Todo todo,BindingResult result, Model model) {
 		
 		// if there is validation errors related to the modelAttribute
 		if(result.hasErrors()) {
-			// return the same page 
+			// return the same page
+			model.addAttribute("userList",userService.getAllUsers());
 			return "createTodo.jsp";
 		}
 		

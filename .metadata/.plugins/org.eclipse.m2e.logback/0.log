@@ -554,3 +554,196 @@
 2025-07-30 19:55:58,391 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2025-07-30 19:55:58,394 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2025-07-30 19:55:58,402 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\ToDoWithManyToMany\src\test\resources
+2025-08-04 18:52:35,538 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-08-04 18:52:45,551 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 18:52:45,713 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 18:52:45,774 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\ToDoWithManyToMany\src\test\resources
+2025-08-04 19:12:25,050 [Worker-14: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:ToDoWithManyToMany:0.0.1-SNAPSHOT @ C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\ToDoWithManyToMany\pom.xml.
+2025-08-04 19:12:26,405 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 19:12:26,443 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 19:12:26,450 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\ToDoWithManyToMany\src\test\resources
+2025-08-04 19:28:19,520 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 19:28:19,533 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 19:28:19,541 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\ToDoWithManyToMany\src\test\resources
+2025-08-04 19:28:29,373 [Worker-28: Launching ToDoWithManyToMany - ToDoWithManyToManyApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 19:28:29,414 [Worker-28: Launching ToDoWithManyToMany - ToDoWithManyToManyApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 19:28:29,421 [Worker-28: Launching ToDoWithManyToMany - ToDoWithManyToManyApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\ToDoWithManyToMany\src\test\resources
+2025-08-04 19:30:52,162 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 19:30:52,175 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 19:30:52,195 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\ToDoWithManyToMany\src\test\resources
+2025-08-04 19:31:56,784 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 19:31:56,790 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 19:31:56,794 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\ToDoWithManyToMany\src\test\resources
+2025-08-04 19:32:18,617 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 19:32:18,633 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 19:32:18,643 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\ToDoWithManyToMany\src\test\resources
+2025-08-04 19:36:57,116 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 19:36:57,125 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 19:36:57,131 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\ToDoWithManyToMany\src\test\resources
+2025-08-04 19:40:19,877 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 19:40:19,890 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 19:40:19,910 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\ToDoWithManyToMany\src\test\resources
+2025-08-04 19:42:07,460 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 19:42:07,462 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 19:42:07,466 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\ToDoWithManyToMany\src\test\resources
+2025-08-04 19:43:03,384 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 19:43:03,386 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 19:43:03,391 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\ToDoWithManyToMany\src\test\resources
+2025-08-04 19:47:22,140 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 19:47:22,148 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 19:47:22,155 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\ToDoWithManyToMany\src\test\resources
+2025-08-04 19:48:32,396 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 19:48:32,403 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 19:48:32,409 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\ToDoWithManyToMany\src\test\resources
+2025-08-04 19:49:27,999 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 19:49:28,001 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 19:49:28,008 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\ToDoWithManyToMany\src\test\resources
+2025-08-04 19:50:25,525 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 19:50:25,529 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 19:50:25,535 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\ToDoWithManyToMany\src\test\resources
+2025-08-04 19:58:50,278 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 19:58:50,287 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 19:58:50,293 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\ToDoWithManyToMany\src\test\resources
+2025-08-04 19:58:53,589 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 19:58:53,591 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 19:58:53,598 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\ToDoWithManyToMany\src\test\resources
+2025-08-04 19:59:49,120 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 19:59:49,134 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 19:59:49,141 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\ToDoWithManyToMany\src\test\resources
+2025-08-04 20:09:11,655 [Worker-41: Launching ToDoWithManyToMany - ToDoWithManyToManyApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 20:09:11,662 [Worker-41: Launching ToDoWithManyToMany - ToDoWithManyToManyApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 20:09:11,679 [Worker-41: Launching ToDoWithManyToMany - ToDoWithManyToManyApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\ToDoWithManyToMany\src\test\resources
+2025-08-04 20:10:09,068 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 20:10:09,072 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 20:10:09,079 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\ToDoWithManyToMany\src\test\resources
+2025-08-04 20:11:13,510 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-04 20:11:13,520 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 20:11:13,525 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\ToDoWithManyToMany\src\test\resources
+2025-08-04 20:12:53,587 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 20:12:53,590 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-04 20:12:53,595 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\ToDoWithManyToMany\src\test\resources
+2025-08-06 19:03:37,792 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-08-06 19:05:03,710 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Login-Registration:0.0.1-SNAPSHOT @ C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\Login-Registration\pom.xml.
+2025-08-06 19:05:07,314 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Login-Registration/src/main/java
+2025-08-06 19:05:07,324 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Login-Registration/src/main/resources
+2025-08-06 19:05:07,339 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Login-Registration/src/main/resources
+2025-08-06 19:05:07,352 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Login-Registration/src/test/java
+2025-08-06 19:05:07,354 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Login-Registration/src/test/resources
+2025-08-06 19:05:13,009 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 11 sec
+2025-08-06 19:05:13,038 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-08-06 19:05:15,996 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Login-Registration:0.0.1-SNAPSHOT @ C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\Login-Registration\pom.xml.
+2025-08-06 19:05:19,212 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Login-Registration/src/main/java
+2025-08-06 19:05:19,213 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Login-Registration/src/main/resources
+2025-08-06 19:05:19,217 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Login-Registration/src/main/resources
+2025-08-06 19:05:19,223 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Login-Registration/src/test/java
+2025-08-06 19:05:19,227 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Login-Registration/src/test/resources
+2025-08-06 19:05:20,985 [Worker-9: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Login-Registration
+2025-08-06 19:05:21,200 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 6,00 sec, update config takes 1,00 sec 
+2025-08-06 19:05:25,905 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-06 19:05:26,038 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 19:05:26,078 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\Login-Registration\src\test\resources
+2025-08-06 19:05:26,082 [Worker-3: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Login-Registration
+2025-08-06 19:05:26,092 [Worker-3: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Login-Registration
+2025-08-06 19:06:45,174 [Worker-3: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Login-Registration-Lecture:0.0.1-SNAPSHOT @ C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\Login-Registration-Lecture\pom.xml.
+2025-08-06 19:06:46,175 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Login-Registration-Lecture/src/main/java
+2025-08-06 19:06:46,179 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Login-Registration-Lecture/src/main/resources
+2025-08-06 19:06:46,186 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Login-Registration-Lecture/src/main/resources
+2025-08-06 19:06:46,192 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Login-Registration-Lecture/src/test/java
+2025-08-06 19:06:46,194 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Login-Registration-Lecture/src/test/resources
+2025-08-06 19:06:47,105 [Worker-3: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2025-08-06 19:06:47,108 [Worker-3: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-08-06 19:06:47,734 [Worker-3: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Login-Registration-Lecture:0.0.1-SNAPSHOT @ C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\Login-Registration-Lecture\pom.xml.
+2025-08-06 19:06:49,020 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Login-Registration-Lecture/src/main/java
+2025-08-06 19:06:49,023 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Login-Registration-Lecture/src/main/resources
+2025-08-06 19:06:49,025 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Login-Registration-Lecture/src/main/resources
+2025-08-06 19:06:49,027 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Login-Registration-Lecture/src/test/java
+2025-08-06 19:06:49,029 [Worker-3: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Login-Registration-Lecture/src/test/resources
+2025-08-06 19:06:49,586 [Worker-3: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Login-Registration-Lecture
+2025-08-06 19:06:49,616 [Worker-3: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 1,00 sec, update config takes 0,00 sec 
+2025-08-06 19:06:50,222 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-06 19:06:50,245 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 19:06:50,253 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\Login-Registration-Lecture\src\test\resources
+2025-08-06 19:06:50,254 [Worker-6: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Login-Registration-Lecture
+2025-08-06 19:06:50,254 [Worker-6: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Login-Registration-Lecture
+2025-08-06 19:19:50,825 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Login-Registration-Lecture:0.0.1-SNAPSHOT @ C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\Login-Registration-Lecture\pom.xml.
+2025-08-06 19:19:52,625 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 19:19:52,628 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 19:19:52,632 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\Login-Registration-Lecture\src\test\resources
+2025-08-06 19:19:52,633 [Worker-8: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Login-Registration-Lecture
+2025-08-06 19:19:52,633 [Worker-8: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Login-Registration-Lecture
+2025-08-06 19:19:54,101 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-06 19:19:54,155 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 19:19:54,166 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\Login-Registration-Lecture\src\test\resources
+2025-08-06 19:20:20,063 [Worker-18: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:Login-Registration-Lecture:0.0.1-SNAPSHOT @ C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\LoginRegistrationLecture\pom.xml.
+2025-08-06 19:20:22,023 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-06 19:20:22,053 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 19:20:22,060 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\LoginRegistrationLecture\src\test\resources
+2025-08-06 19:20:23,363 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-06 19:20:23,365 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 19:20:23,369 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\LoginRegistrationLecture\src\test\resources
+2025-08-06 19:23:12,427 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-06 19:23:12,437 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 19:23:12,451 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\LoginRegistrationLecture\src\test\resources
+2025-08-06 19:23:24,703 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-06 19:23:24,742 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 19:23:24,824 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\LoginRegistrationLecture\src\test\resources
+2025-08-06 19:31:28,264 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-06 19:31:28,275 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 19:31:28,283 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\LoginRegistrationLecture\src\test\resources
+2025-08-06 19:37:26,639 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-06 19:37:26,657 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 19:37:26,661 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\LoginRegistrationLecture\src\test\resources
+2025-08-06 19:39:38,517 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-06 19:39:38,525 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 19:39:38,533 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\LoginRegistrationLecture\src\test\resources
+2025-08-06 19:42:31,147 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-06 19:42:31,162 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 19:42:31,174 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\LoginRegistrationLecture\src\test\resources
+2025-08-06 19:44:04,999 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-06 19:44:05,010 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 19:44:05,013 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\LoginRegistrationLecture\src\test\resources
+2025-08-06 19:44:18,576 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-06 19:44:18,659 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 19:44:18,667 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\LoginRegistrationLecture\src\test\resources
+2025-08-06 20:05:33,615 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-06 20:05:33,622 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 20:05:33,628 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\LoginRegistrationLecture\src\test\resources
+2025-08-06 20:13:07,710 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-06 20:13:07,719 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 20:13:07,725 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\LoginRegistrationLecture\src\test\resources
+2025-08-06 20:14:11,002 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-06 20:14:11,014 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 20:14:11,024 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\LoginRegistrationLecture\src\test\resources
+2025-08-06 20:17:57,497 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 20:17:57,499 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 20:17:57,504 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\LoginRegistrationLecture\src\test\resources
+2025-08-06 20:22:26,906 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 20:22:26,908 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 20:22:26,914 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\LoginRegistrationLecture\src\test\resources
+2025-08-06 20:28:02,223 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-06 20:28:02,233 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 20:28:02,239 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\LoginRegistrationLecture\src\test\resources
+2025-08-06 20:32:12,682 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-06 20:32:12,689 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 20:32:12,701 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\LoginRegistrationLecture\src\test\resources
+2025-08-06 20:32:45,278 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-06 20:32:45,285 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 20:32:45,290 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\LoginRegistrationLecture\src\test\resources
+2025-08-06 20:35:18,192 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-06 20:35:18,200 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 20:35:18,205 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\LoginRegistrationLecture\src\test\resources
+2025-08-06 20:35:34,141 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 20:35:34,142 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 20:35:34,150 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\LoginRegistrationLecture\src\test\resources
+2025-08-06 20:35:52,291 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 20:35:52,293 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 20:35:52,299 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\LoginRegistrationLecture\src\test\resources
+2025-08-06 20:36:13,141 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 20:36:13,144 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 20:36:13,151 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\LoginRegistrationLecture\src\test\resources
+2025-08-06 20:39:13,403 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-06 20:39:13,410 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 20:39:13,412 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\LoginRegistrationLecture\src\test\resources
+2025-08-06 20:41:10,771 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-06 20:41:10,781 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 20:41:10,785 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kouba\Documents\Coding Dojo\TA\JAVA_July_25\SpringLectures\LoginRegistrationLecture\src\test\resources

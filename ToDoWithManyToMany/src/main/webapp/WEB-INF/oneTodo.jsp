@@ -24,7 +24,7 @@
 <a href="/todos" class="btn btn-primary">Home</a>
 <h1>${todoOne.title }</h1>
 <h2>${todoOne.description}</h2>
-
+<h3>${todoOne.user.name}</h3>
 </div>
 
 </body>

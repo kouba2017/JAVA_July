@@ -20,6 +20,7 @@
 <body>
 
 <div class="container mt-4">
+<a href="user/new" class="btn btn-primary">Add user</a>
 
 <a href="/todos/create" class="btn btn-primary">Create Todo</a>
 
@@ -57,6 +58,37 @@ Action
 <td>
 <a href="/todos/edit/${todo.id}" class="btn btn-success">Edit</a>
 <a href="/todos/delete/${todo.id}" class="btn btn-danger">Delete</a>
+</td>
+</tr>
+</c:forEach>
+</tbody>
+</table>
+<table class="table table-striped">
+<thead>
+<tr>
+<th>
+Name 
+</th>
+
+<th>
+Action 
+</th>
+</tr>
+</thead>
+
+<tbody>
+<c:forEach var ="user" items="${userList}">
+<tr>
+<td>
+<c:out value="${user.name}"></c:out>
+</td>
+
+<td>
+<form action="/user/delete/${user.id}" method="post">
+    <input type="hidden" name="_method" value="delete">
+    <input type="submit" value="Delete">
+</form>
+
 </td>
 </tr>
 </c:forEach>

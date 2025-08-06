@@ -28,6 +28,16 @@
 <form:errors path="description" class="badge text-danger" ></form:errors>
 </div>
 
+<div>
+	<form:label path="user"> User: </form:label>
+	<form:select path="user" class="form-select" >
+		<form:options items="${userList}" itemLabel="name"  />
+		<!-- <c:forEach items="${userList}" var="user">
+			<!-- user.id -->
+		</c:forEach> -->
+	</form:select>
+</div>
+
 <button type="submit" class="btn btn-primary" >Create</button>
 </form:form>
 
