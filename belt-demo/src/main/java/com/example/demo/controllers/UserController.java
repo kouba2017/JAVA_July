@@ -27,10 +27,7 @@ public class UserController {
  @GetMapping("/")
  public String index(Model model, @ModelAttribute("newUser") User newUser, @ModelAttribute("newLogin") LoginUser newLogin) {
  
-     // Bind empty User and LoginUser objects to the JSP
-     // to capture the form input
-    // model.addAttribute("newUser", new User());
-     //model.addAttribute("newLogin", new LoginUser());
+    
      return "index.jsp";
  }
  

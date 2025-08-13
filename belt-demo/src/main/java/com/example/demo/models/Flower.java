@@ -17,7 +17,7 @@ import jakarta.persistence.PreUpdate;
 import jakarta.persistence.Table;
 import jakarta.validation.constraints.Max;
 import jakarta.validation.constraints.Min;
-import jakarta.validation.constraints.NotBlank;
+import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Size;
 
 @Entity 
@@ -34,8 +34,8 @@ public class Flower {
 	    private String color;
 		
 		
-		@NotBlank(message="This field must be clicked")
-		private boolean isPerennial;
+		@NotNull(message="This field must be clicked")
+		private Boolean isPerennial;
 		
 		@Min(value=1,message="1 is the minimum")
 		@Max(value=5,message="5 is the max")
@@ -85,10 +85,10 @@ public class Flower {
 		public void setColor(String color) {
 			this.color = color;
 		}
-		public boolean isPerennial() {
+		public Boolean getIsPerennial() {
 			return isPerennial;
 		}
-		public void setPerennial(boolean isPerennial) {
+		public void setIsPerennial(Boolean isPerennial) {
 			this.isPerennial = isPerennial;
 		}
 		public int getRating() {
