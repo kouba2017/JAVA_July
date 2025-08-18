@@ -1,6 +1,13 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
-     <%@ taglib uri="http://www.springframework.org/tags/form" prefix="form" %> 
+  <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+    <!-- c:out ; c:forEach etc. --> 
+    <%@ taglib prefix = "c" uri = "http://java.sun.com/jsp/jstl/core" %>
+    <!-- Formatting (dates) --> 
+    <%@ taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix="fmt"  %>
+    <!-- form:form -->
+    <%@ taglib prefix="form" uri="http://www.springframework.org/tags/form"%>
+
+    <!-- for rendering errors on PUT routes -->
+    <%@ page isErrorPage="true" %>
 <!DOCTYPE html>
 <html>
 <head>
@@ -17,6 +24,7 @@
 	
 	<form:form method="post" modelAttribute="flower" action="/flowers/${flower.id}/edit">
 	<input type="hidden" name="_method" value="put">
+	
 	<div>
 	<form:label path="name"> Name</form:label>
 	<form:input type="text" path="name" class="form-control"  ></form:input>
@@ -43,6 +51,7 @@
 	<form:errors path="description" class="badge text-danger" ></form:errors>
 	</div>
 	
+	<form:hidden value="${loggedUser.id}" path="user" />  
 	
 	<button type="submit" class="btn btn-primary" >Edit</button>
 	</form:form>

@@ -69,8 +69,17 @@ public class MainController {
 			 if (session.getAttribute("userId")==null) {
 				 return "redirect:/";
 			 }
-			 model.addAttribute("flower",flowerService.getFlowerById(id));
-			return "edit.jsp";
+			 Long userId= (Long)session.getAttribute("userId");
+			User loggedUser=userService.findById(userId);
+			Flower thisFlower= flowerService.getFlowerById(id);
+			model.addAttribute("loggedUser",loggedUser);
+			 //security for authorization
+			 if(!userId.equals(thisFlower.getUser().getId())) {
+				return "redirect:/flowers/{id}";
+			 }
+			  model.addAttribute("flower",flower);
+			  return "edit.jsp";
+			
 		}
 		
 		@PutMapping("/flowers/{id}/edit")
@@ -80,8 +89,11 @@ public class MainController {
 				 return "redirect:/";
 			 }
 			 if(result.hasErrors()) {
+				 Long userId= (Long)session.getAttribute("userId");
+				 User loggedUser=userService.findById(userId);
+					model.addAttribute("loggedUser",loggedUser);
 					// return the same page
-				 model.addAttribute("flower",flowerService.getFlowerById(id));
+				//model.addAttribute("flower",flowerService.getFlowerById(id));
 					return "edit.jsp";
 				}
 			 
@@ -97,20 +109,35 @@ public class MainController {
 			 if (session.getAttribute("userId")==null) {
 				 return "redirect:/";
 			 }
+			 Long userId= (Long)session.getAttribute("userId");
+			 User loggedUser=userService.findById(userId);
+			model.addAttribute("loggedUser",loggedUser);
 			 model.addAttribute("flower", flowerService.getFlowerById(id));
 			return "view.jsp";
 		}
 		@DeleteMapping("/flowers/{id}")
-		public String removeFlower(@PathVariable Long id) {
+		public String removeFlower(HttpSession session, @PathVariable Long id, Model model) {
+			 if (session.getAttribute("userId")==null) {
+				 return "redirect:/";
+			 }
+			Long userId= (Long)session.getAttribute("userId");
+			Flower thisFlower= flowerService.getFlowerById(id);
+			//needed when it is a get instead of deleteMapping
+				 //security for authorization
+			if(!userId.equals(thisFlower.getUser().getId())) {
+				return "redirect:/flowers/{id}";
+			}
 			flowerService.deleteToDoById(id);
 			return "redirect:/flowers";
 		}
-		@GetMapping("/myflowers/")
-		public String viewMyFlowers(HttpSession session) {
+		@GetMapping("/myFlowers")
+		public String viewMyFlowers(HttpSession session, Model model) {
 			//guard of route
 			 if (session.getAttribute("userId")==null) {
 				 return "redirect:/";
 			 }
-			return null;
+			 Long userId= (Long)session.getAttribute("userId");
+			model.addAttribute("user", userService.findById(userId));
+			return "myFlower.jsp";
 		}
 }

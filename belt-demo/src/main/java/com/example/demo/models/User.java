@@ -105,5 +105,11 @@ public class User {
 	public void setUpdatedAt(Date updatedAt) {
 		this.updatedAt = updatedAt;
 	}
+	public List<Flower> getFlowersList() {
+		return flowersList;
+	}
+	public void setFlowersList(List<Flower> flowersList) {
+		this.flowersList = flowersList;
+	}
     
 }
